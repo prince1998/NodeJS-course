@@ -78,4 +78,4 @@ When we pass an object to a function, it is passed by reference ie. the object a
 
 In JavaScript, primitive values are passed by values (copied), and objects are passed by reference (points to same location)
 
-### Immediately invoked function expressions (IIFE
+### Immediately invoked function expressions (IIFE)
